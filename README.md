@@ -68,7 +68,7 @@ Cálculo del Score:
 - Data Encoding: Transformación de variables categóricas a numéricas binarias (0,1)
 
 
-7. Model Training and score:
+6. Model Training and score:
 
 - PCA: Análisis de la separabilidad de los datos según los segmentos de potencial paciente (A,B,C,D)
 
